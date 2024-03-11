@@ -1,0 +1,1 @@
+export const API = "https://mern-meal-master-backend.vercel.app"
